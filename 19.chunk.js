@@ -1,0 +1,1 @@
+webpackJsonp([19],{235:function(n,e,t){"use strict";n.exports={path:"id/:circleID",breadcrumbName:"项目 :circleID",getComponent:function(n,e){t.e(31,function(n){e(null,t(234))})}}},237:function(n,e,t){"use strict";n.exports={path:"serial",breadcrumbName:"圈子排序（发现列表）",getComponent:function(n,e){t.e(30,function(n){e(null,t(236))})}}}});

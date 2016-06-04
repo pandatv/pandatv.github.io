@@ -1,0 +1,1 @@
+webpackJsonp([8],{253:function(n,e,t){"use strict";n.exports={path:"gallery",breadcrumbName:"轮播图",getChildRoutes:function(n,e){t.e(17,function(n){e(null,[t(255),t(257)])})},getComponents:function(n,e){t.e(12,function(n){e(null,{header:t(251),main:t(252),footer:t(250)})})}}}});
