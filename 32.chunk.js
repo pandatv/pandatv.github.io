@@ -1,1 +1,0 @@
-webpackJsonp([32],{229:function(n,t,e){"use strict";n.exports={path:"detail/:commentID",breadcrumbName:"评论详情 :commentID",getComponent:function(n,t){e.e(33,function(n){t(null,e(228))})}}}});
